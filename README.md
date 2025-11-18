@@ -1,13 +1,10 @@
+# Name : Deepak B V
+# Reg no : 212223060036
 # 1- STUDY-OF-MICROWAVE-COMPONENTS-AND-INSTRUMENTS
-
-
-
 ## Aim:
 To become familiar with microwave components and instruments available in the laboratory.
-
 ## Apparatus Used:
 Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted section, Frequency/wave meter, RF Generator, Vector Network Analyzer.
-
 ## Objectives:
 1.	Note relevant Technical specifications of the instruments.
 2.	Study position and functions of the front panel controls of the equipment.
@@ -15,7 +12,6 @@ Klystron power supply, Gunn power supply, VSWR meter, power meter, Slotted secti
 4.	Facilities provided and limitations of the equipment if any.
 5.	Know initial settings of controls of the equipments before switching on the supply.
 6.	Precautions to be taken while carrying out the measurements.
-
 ## Observation: ( Include your own Table relevant to the Experiment)
 
 	Identify the components/devices.
